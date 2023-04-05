@@ -2,9 +2,9 @@
 
 ## Courses
 
-- corporate finance - [Introduction to Corporate Finance](https://www.coursera.org/learn/wharton-finance)
+- Corporate Finance - [Introduction to Corporate Finance](https://www.coursera.org/learn/wharton-finance)
 
-- marketing - [Introduction to Marketing](https://www.coursera.org/learn/wharton-marketing/)
+- Marketing - [Introduction to Marketing](https://www.coursera.org/learn/wharton-marketing/)
 
 part of
 
